@@ -1,4 +1,4 @@
-module github.com/lightstep/otel-config-validator
+module github.com/hyperdxio/otel-config-validator
 
 go 1.19
 
@@ -214,4 +214,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
-replace github.com/lightstep/otel-config-validator/configunmarshaler v0.0.0 => ./configunmarshaler
+replace github.com/hyperdxio/otel-config-validator/configunmarshaler v0.0.0 => ./configunmarshaler

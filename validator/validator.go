@@ -1,7 +1,7 @@
 package validator
 
 import (
-	"github.com/lightstep/otel-config-validator/configunmarshaler"
+	"github.com/hyperdxio/otel-config-validator/configunmarshaler"
 
 	"go.opentelemetry.io/collector/config"
 	"go.opentelemetry.io/collector/confmap"

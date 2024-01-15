@@ -7,9 +7,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/lightstep/otel-config-validator/types"
-	"github.com/lightstep/otel-config-validator/validator"
-	"github.com/lightstep/otel-config-validator/version"
+	"github.com/hyperdxio/otel-config-validator/types"
+	"github.com/hyperdxio/otel-config-validator/validator"
+	"github.com/hyperdxio/otel-config-validator/version"
 )
 
 func main() {

@@ -2,21 +2,7 @@
 
 Experimental OpenTelemetry Collector Configuraton Validator. Work-in-progress, currently supports usage:
 
-* In-browser (via WebAssembly), see Demo: [https://lightstep.github.io/otel-config-validator/](https://lightstep.github.io/otel-config-validator/)
 * CLI
-* Visual Studio Code Extension
-
-### Development: Quick start (WebAssembly)
-
-```
-    $ make
-
-    # run local server
-    $ go run cmd/server/main.go
-
-    # open a browser to validate using an HTML form
-    $ open http://127.0.0.1:8100
-```
 
 ### How it works
 

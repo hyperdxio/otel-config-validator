@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"syscall/js"
 
-	"github.com/lightstep/otel-config-validator/validator"
+	"github.com/hyperdxio/otel-config-validator/validator"
 )
 
 func validateWrapper() js.Func {
